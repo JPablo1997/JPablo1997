@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JPablo1997
-- 👀 I’m interested in Software Engineering and Information Security.
-- 🌱 I’m currently learning Web Pentest and Development of Microservices with Spring.
-- 💞️ I’m looking to collaborate on DevSecOps Teams.
+- Hi, I’m @JPablo1997
+- I’m interested in Information Security and Software Engineering.
+- I’m currently learning Web Pentest, Azure and Development of Microservices with Spring.
+- I’m looking to collaborate on DevSecOps Teams.
 - 📫 How to reach me diazcolato1997@gmail.com
 
 <!---
